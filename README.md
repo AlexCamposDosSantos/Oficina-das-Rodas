@@ -106,6 +106,19 @@ O escopo do projeto não inclui:
 - **XAMPP:** Inclui Apache (servidor web) e MySQL (banco de dados relacional). Fornece um ambiente integrado para desenvolvimento e testes.
 - **MySQL:** Sistema de gerenciamento de banco de dados relacional para armazenar e gerenciar dados de forma eficiente.
 
-### Prints do Sistema
+## 7. Prints do Sistema
 
-![Página Inicial]([https://www.exemplo.com/imagem.png](https://raw.githubusercontent.com/AlexCamposDosSantos/Oficina-das-Rodas/main/Prints/print1.jpeg))
+### Página Inicial
+![Página Inicial](https://raw.githubusercontent.com/AlexCamposDosSantos/Oficina-das-Rodas/main/Prints/print1.jpeg)
+### Cadastro - Empresa
+![Página Inicial](https://raw.githubusercontent.com/AlexCamposDosSantos/Oficina-das-Rodas/main/Prints/print2.jpeg)
+### Cadastro - Usuário
+![Página Inicial](https://raw.githubusercontent.com/AlexCamposDosSantos/Oficina-das-Rodas/main/Prints/print3.jpeg)
+### Cadastro - Cliente
+![Página Inicial](https://raw.githubusercontent.com/AlexCamposDosSantos/Oficina-das-Rodas/main/Prints/print4.jpeg)
+### Abrir O.S
+![Página Inicial](https://raw.githubusercontent.com/AlexCamposDosSantos/Oficina-das-Rodas/main/Prints/print5.jpeg)
+### Controle O.S
+![Página Inicial](https://raw.githubusercontent.com/AlexCamposDosSantos/Oficina-das-Rodas/main/Prints/print6.jpeg)
+### Relatórios e Termos
+![Página Inicial](https://raw.githubusercontent.com/AlexCamposDosSantos/Oficina-das-Rodas/main/Prints/print7.jpeg)
