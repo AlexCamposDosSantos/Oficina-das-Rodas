@@ -98,7 +98,7 @@ O escopo do projeto não inclui:
 
 ### Ambiente de Desenvolvimento
 
-- **Linguagem de Programação:** JavaScript
+- **Linguagem de Programação:** JavaScript + PHP
 - **Ferramenta de Desenvolvimento:** Visual Studio Code (VSCode)
 
 ### Banco de Dados
